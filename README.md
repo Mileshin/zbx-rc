@@ -2,7 +2,6 @@
 Utility to send message from Zabbix into Rocket.Chat.
 ![alt](https://pp.userapi.com/c848736/v848736351/646ba/_MNVgbH-Pzk.jpg)
 Zabbix Share page: https://share.zabbix.com/cat-notifications/zabbix-to-rocket-chat  
-You can contact me with Telegram: @asand3r (English or Russian)
 
 Program wrote with Python 3.6.
 
